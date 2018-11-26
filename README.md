@@ -1,4 +1,4 @@
 # dmd_assignment
 Members:
-Ilia Prokopev
+Ilia Prokopev,
 Aliya Zagidullina
